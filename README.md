@@ -11,14 +11,14 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 ```javascript
 const arun = {
   pronouns: "He | Him",
-  code: ["Javascript", "Java", "Python"],
+  code: ["JavaScript", "Java", "Python"],
   technologies: {
-    frontend: ["React", "Next.js", "Tailwind"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express", "MongoDB"],
     ai: ["Gemini API", "Prompt Engineering"]
   },
@@ -27,39 +27,44 @@ const arun = {
 };
 
 🛠 Tech Stack
-Category	Tools & Languages
-Languages	
-Frontend	
-Backend	
-DevOps	
+
+Languages
+
+JavaScript • Java • Python
+
+Frontend
+
+React • Next.js • Tailwind CSS
+
+Backend
+
+Node.js • Express • MongoDB
+
+Tools & Dev
+
+Git • GitHub • REST APIs
+
 📌 Featured Projects
-🤖 AI Code Reviewer - A MERN stack application utilizing the Gemini API to provide real-time feedback and optimization suggestions for code snippets.
 
-🌐 WebNexa Agency - A high-performance digital agency landing page built with Next.js focusing on SEO and modern UI/UX.
+🤖 AI Code Reviewer
+MERN stack application using Gemini API to provide real-time code review, optimization suggestions, and best practices.
 
-🎵 Music Tutorial Platform - Full-stack application for interactive learning, featuring course progress and responsive design.
+🌐 WebNexa Agency
+High-performance digital agency landing page built with Next.js, focused on SEO, performance, and modern UI/UX.
 
-📊 My Github Metrics
-<p align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight"/> </p>
+🎵 Music Tutorial Platform
+Full-stack learning platform with interactive lessons, progress tracking, and responsive design.
 
-🤝 Connect with Me
-💬 Ask me about React, Node.js, or MERN architecture.
+👉 Check pinned repositories below 👇
 
-📫 Reach me at: YOUR_EMAIL@gmail.com
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arunmaity2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunmaity2003&layout=compact&theme=tokyonight" /> </p>
+🤝 Connect With Me
 
-⚡ Portfolio: [Coming Soon / Link here]
+💬 Ask me about React, Node.js, MERN architecture, or DSA
 
-<p align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00b4d8%26height%3D100%26section%3Dfooter" width="100%"/> </p>
+📫 Reach me at: yourprofessionalemail@gmail.com
 
+⚡ Portfolio: Coming Soon
 
------
-
-### How to use this:
-
-1.  Go to your GitHub profile.
-2.  Create a new repository with the name **exactly matching your username** (e.g., `ArunMaity`).
-3.  Check "Initialize this repository with a README".
-4.  Click the **Edit** (pencil icon) on the README.md and paste the code above.
-5.  **Final Step:** Replace the `YOUR_GITHUB_USERNAME` placeholders with your actual username so the stats and project links work\!
-
-Would you like me to help you write a more detailed "README.md" specifically for your **AI Code Reviewer** or **WebNexa** projects as well?
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=120&section=footer"/> </p> ```
