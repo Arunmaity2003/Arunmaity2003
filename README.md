@@ -17,22 +17,6 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-```javascript
-const arun = {
-  pronouns: "He / Him",
-  code: ["JavaScript", "Java", "Python"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    ai: ["Gemini API", "Prompt Engineering"]
-  },
-  currentFocus: "Building scalable AI-powered web tools",
-  funFact: "I believe 1 hour of debugging saves 5 minutes of reading documentation."
-};
 
 🛠 Tech Stack
 💻 Languages
@@ -73,4 +57,4 @@ Full-stack learning platform with interactive lessons, progress tracking, and re
 📫 Email: arunmaity7211@gmail.com
 
 ⚡ Portfolio: https://portfoilio-arun.netlify.app/
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=120&section=footer"/> </p> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=120&section=footer"/> </p> ```
