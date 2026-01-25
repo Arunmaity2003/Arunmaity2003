@@ -12,15 +12,12 @@
 📊 Github Stats
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/> </p>
 
-📌 Featured Repositories
-WebNexa - Modern Digital Agency Landing Page built with Next.js.
+📌 Deployment Logs (Featured Projects)
+🤖 AI Code Reviewer > Automated code audit system using MERN and Gemini API. Features real-time syntax optimization and logic debugging.
 
-AI Code Reviewer - Integrating Gemini API with MERN for automated code analysis.
+🌐 WebNexa Agency > Production-grade agency site. Tech: Next.js 14, Framer Motion, SEO-optimized SSR.
 
-Music Tutorial Platform - Interactive learning web app.
-
-📊 My Github Metrics
-<p align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight"/> </p>
+🎵 Music Tutorial Platform > LMS for music enthusiasts with video streaming and progress persistence.
 
 🤝 Connection Request
 💬 Ask me about: Full Stack Architecture or DSA in Java
