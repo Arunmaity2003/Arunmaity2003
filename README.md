@@ -43,16 +43,9 @@ Production-grade agency website built with Next.js 14 and Framer Motion.
 ### Music Tutorial Platform
 Learning management system for music learners with video streaming and progress tracking.
 
----
-
-## 📊 GitHub Stats
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
-
 ## 🤝 Connect With Me
-- **Email:** arunmaity7211@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN  
+- **Email:** arunmaity.cse@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/arun-maity-cse 
 - **Portfolio:** https://portfoilio-arun.netlify.app  
 
 ---
