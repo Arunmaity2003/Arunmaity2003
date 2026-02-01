@@ -1,29 +1,63 @@
-# <p align="center">👨‍💻 Arun Maity</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Final+Year+Computer+Science+Student;Full+Stack+Developer+(MERN);Building+AI-Powered+Applications;Practicing+DSA+%26+OOPs+in+Java" alt="Typing SVG" />
-</p>
+# Arun Maity
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+Final-year Computer Science student and Full Stack Developer (MERN) with a strong interest in building scalable web applications and AI-powered tools. Actively practicing Data Structures & Algorithms and Object-Oriented Programming in Java.
 
-📊 Github Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/> </p>
+---
 
-📌 Deployment Logs (Featured Projects)
-🤖 AI Code Reviewer > Automated code audit system using MERN and Gemini API. Features real-time syntax optimization and logic debugging.
+## 👨‍💻 About Me
+- 🎓 Final-year CSE student  
+- 💻 Full Stack Developer (MERN, Next.js)  
+- 🤖 Interested in AI-powered web applications  
+- 📚 Practicing DSA & OOPs in Java  
+- 🌱 Always learning and improving system design skills  
 
-🌐 WebNexa Agency > Production-grade agency site. Tech: Next.js 14, Framer Motion, SEO-optimized SSR.
+---
 
-🎵 Music Tutorial Platform > LMS for music enthusiasts with video streaming and progress persistence.
+## 🛠 Tech Stack
+**Languages:**  
+- Java, JavaScript, Python  
 
-🤝 Connection Request
-💬 Ask me about: Full Stack Architecture or DSA in Java
+**Frontend:**  
+- React.js, Next.js, HTML, CSS, Tailwind CSS  
 
-📫 Ping me: arunmaity7211@gmail.com
+**Backend:**  
+- Node.js, Express.js  
 
-⚡ Web: portfoilio-arun.netlify.app
+**Database:**  
+- MongoDB  
 
-<p align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:36BCF7,100:03045e%26height%3D120%26section%3Dfooter"/> </p>
+**Tools & Platforms:**  
+- Git, GitHub, VS Code, Postman, Linux  
+
+---
+
+## 🚀 Projects
+### AI Code Reviewer
+Automated code review system built using MERN and Gemini API.  
+**Features:** Code quality analysis, logic suggestions, and optimization feedback.
+
+### WebNexa Agency Website
+Production-grade agency website built with Next.js 14 and Framer Motion.  
+**Focus:** SEO optimization, performance, and modern UI/UX.
+
+### Music Tutorial Platform
+Learning management system for music learners with video streaming and progress tracking.
+
+---
+
+## 📊 GitHub Stats
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 🤝 Connect With Me
+- **Email:** arunmaity7211@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN  
+- **Portfolio:** https://portfoilio-arun.netlify.app  
+
+---
+
+## 💬 Ask Me About
+- Full Stack Web Development  
+- MERN Architecture  
+- DSA & OOPs in Java  
