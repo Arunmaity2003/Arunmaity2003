@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Stack-MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN" />
   <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Focus-AI_Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
@@ -41,16 +41,16 @@ const arun = {
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nextjs,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,postman,linux" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,python,react,nextjs,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,postman,linux" alt="Tech stack icons" />
 </p>
 
 **Languages:** Java, JavaScript, Python
 
 **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS
 
-**Backend:** Node.js, Express.js
+**Backend:** Node.js, Express.js, Spring Boot
 
-**Database:** MongoDB
+**Database:** MongoDB, MySQL
 
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, Linux
 
