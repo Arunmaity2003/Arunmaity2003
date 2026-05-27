@@ -87,16 +87,6 @@ const arun = {
 
 ---
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arunmaity2003&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunmaity2003&layout=compact&theme=tokyonight" />
-</p>
-
 ## Connect With Me
 
 - **Email:** arunmaity.cse@gmail.com
