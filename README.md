@@ -18,7 +18,7 @@ I am currently strengthening my Data Structures and Algorithms, Object-Oriented 
 ```js
 const arun = {
   role: "Full Stack Developer",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js", "Next.js"],
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js", "Next.js", "Spring Boot"],
   learning: ["DSA", "OOPs in Java", "System Design"],
   interest: "AI-powered web applications",
   goal: "Build software that is clean, scalable, and useful"
@@ -86,6 +86,16 @@ const arun = {
 - AI-powered Web Tools
 
 ---
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arunmaity2003&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunmaity2003&layout=compact&theme=tokyonight" />
+</p>
 
 ## Connect With Me
 
